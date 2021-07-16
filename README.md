@@ -20,6 +20,5 @@ Foram utilizadas as seguintes tecnologias para o desenvolvimento:
 
 - HTML
 - CSS
-- JavaScript
 
 
